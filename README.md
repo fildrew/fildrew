@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" 
+  <img height="200" 
 src="https://github.com/fildrew/fildrew/assets/22325894/3dbc3a07-c0df-4ba8-baa8-4e799aa4ce60" />
 </div>
 
