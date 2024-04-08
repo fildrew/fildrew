@@ -25,7 +25,8 @@ src="https://github.com/fildrew/fildrew/assets/22325894/3dbc3a07-c0df-4ba8-baa8-
 
 ###
 
-<p align="left">I'm a junior Full-Stack Developer with a  passion for  web development and software programming.</p>
+<p align="left">I'm an enthusiastic and detail-oriented Junior Frontend Developer with proficient knowledge in HTML,CSS and JavaScript as well as third-party libraries such as React and Nextjs. Seeking to utilize my technical skills and expertise to provide value to the employer and contribute to successful projects both today and in the future. Aiming to take on new challenges and utilize my coding and debugging skills for developing new features and enhance the overall user experience.
+</p>
 
 ###
 
