@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm  a Junior Frontend Developer with proficient knowledge in HTML,CSS and JavaScript as well as third-party libraries such as React and Nextjs. Seeking to utilize my technical skills and expertise to provide value to the employer and contribute to successful projects both today and in the future. Aiming to take on new challenges and utilize my coding and debugging skills for developing new features and enhance the overall user experience.</p>
+<p align="left">I'm  a Fullstack Developer with proficient knowledge in HTML,CSS and JavaScript as well as third-party libraries such as React and Nextjs. Seeking to utilize my technical skills and expertise to provide value to the employer and contribute to successful projects both today and in the future. Aiming to take on new challenges and utilize my coding and debugging skills for developing new features and enhance the overall user experience.</p>
 
 ###
 
